@@ -356,22 +356,7 @@ img {
           padding: 8px;
       }
   }
-  /* #scroll-container {
-      border: 3px solid rgb(255, 255, 255);
-      border-radius: 5px;
-      overflow: hidden;
-      transition: infinite;
-    }
-    
-    #scroll-text {
-      -moz-transform: translateX(100%);
-      -webkit-transform: translateX(100%);
-      transform: translateX(100%);
-      -moz-animation: my-animation 15s linear infinite;
-      -webkit-animation: my-animation 15s linear infinite;
-      animation: my-animation 15s linear infinite;
-    }
-     */
+
 
     @-moz-keyframes my-animation {
       from { -moz-transform: translateX(100%); }
